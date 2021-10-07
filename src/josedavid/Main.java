@@ -6,5 +6,8 @@ public class Main {
 	// write your code here
         String myName = "Jose";
         System.out.println("Hello, my name is "+ myName + "!");
+
+        HiFriend myfriend = new HiFriend();
+        System.out.println("Hello "+ myfriend.friend + "!");
     }
 }
