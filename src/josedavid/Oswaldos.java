@@ -7,6 +7,6 @@ public class Oswaldos {
         System.out.println("What is your name?");
         HiFriend myfriend = new HiFriend();
         System.out.println("Hello "+ myfriend.friend + "!");
-        System.out.println("Hello "+ myfriend.friend + "!" + "Oswaldo was just playing with your code");
+        System.out.println("Oswaldo was just playing with your code");
     }
 }
